@@ -1,4 +1,4 @@
-## 🌸✨ Olá, seja bem-vindo(a)! ✨🌸
+## Olá, seja bem-vindo(a)! 🍒
 
 📊 Atualmente estou cursando **Data Analyst**.  
 📚 No momento, estou aprendendo e desenvolvendo conhecimentos em:
